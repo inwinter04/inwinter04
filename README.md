@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: inwinter04@163.com
 
 ### My GitHub Contributions
-![](https://raw.githubusercontent.com/inwinter04/inwinter04/main/assets/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ### Stats
 
