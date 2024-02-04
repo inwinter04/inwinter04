@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"> <a href="https://www.iamdt.cn"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);要优秀啊，不然怎么遇见优秀的人！&center=true&size=27"> </a> </h1>
 
-- 🔭 I’m currently working on a high school student
-- 🌱 I’m currently learning Python and Web2App development
+- 🔭 I’m currently working on a University Student
+- 🌱 I’m currently learning Java and Web Develop
 - 💬 Ask me about Minecraft server operations and technical issues
 - 📫 How to reach me: inwinter04@163.com
 
