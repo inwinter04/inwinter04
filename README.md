@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 
 ### My Blog Stats
 <!-- START_SECTION:blog -->
-
+* <a href='http://www.iamdt.cn/archives/1705497367170' target='_blank'>AI社交觉醒？斯坦福小镇实验到底做了什么！</a> - Sun, 21 Jan 2024 06:30:35 GM
+* <a href='http://www.iamdt.cn/archives/1704109185030' target='_blank'>再见2023，你好2024！</a> - Mon, 1 Jan 2024 11:59:31 GM
+* <a href='http://www.iamdt.cn/archives/1703937895591' target='_blank'>非小米电脑使用跨端智联</a> - Sat, 30 Dec 2023 12:35:08 GM
+* <a href='http://www.iamdt.cn/archives/1703771826307' target='_blank'>Chap04.Python 函数编程与作用域</a> - 
+* <a href='http://www.iamdt.cn/archives/1703684123199' target='_blank'>Chap03.Python 流程控制与列表生成式</a> - Wed, 27 Dec 2023 13:39:20 GM
+* <a href='http://www.iamdt.cn/archives/1703217351830' target='_blank'>Chap02.Python语法基础与数据类型</a> - Fri, 22 Dec 2023 03:58:46 GM
 <!-- END_SECTION:blog -->
 
 ### Stats
