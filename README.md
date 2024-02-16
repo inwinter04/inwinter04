@@ -29,6 +29,11 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
+### My Blog Stats
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+
 ### Stats
 
 <table>
