@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
-### My Blog Stats
+### Recent Blog
 <!-- START_SECTION:blog -->
 * <a href='http://www.iamdt.cn/archives/1705497367170' target='_blank'>AI社交觉醒？斯坦福小镇实验到底做了什么！</a> - Sun, 21 Jan 2024 06:30:35 GM
 * <a href='http://www.iamdt.cn/archives/1704109185030' target='_blank'>再见2023，你好2024！</a> - Mon, 1 Jan 2024 11:59:31 GM
