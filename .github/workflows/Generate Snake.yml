@@ -13,8 +13,16 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+          
       - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+        uses: aelassas/snk/svg-only@latest # 假设 'latest' 是支持 Node.js 20 的新版本标签
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -22,7 +30,7 @@ jobs:
             dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
             
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@latest # 假设 'latest' 是支持 Node.js 20 的新版本标签
         with:
           target_branch: main
           build_dir: dist
