@@ -3,6 +3,7 @@ name: AutoTasks
 on:
   schedule:
     - cron: '0 12 * * *' # 每天中午12点执行
+  workflow_dispatch: # 允许手动触发工作流程
 
 jobs:
   run-java:
@@ -15,7 +16,12 @@ jobs:
       with:
         java-version: '17'
         distribution: 'adopt'
-    - name: Run Java file
+    - name: Compile Java code
+      run: |
+        javac AutoTasks/src/*.java
+        javac AutoTasks/src/cn/iamdt/functions/*.java
+        javac AutoTasks/src/cn/iamdt/utils/*.java
+    - name: Run Java program
       run: java -cp AutoTasks/src Main
     - name: Commit and Push Changes
       run: |
