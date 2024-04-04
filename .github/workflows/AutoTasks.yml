@@ -16,10 +16,13 @@ jobs:
       with:
         java-version: '17'
         distribution: 'adopt'
-    - name: Run Java file
+    - name: Compile Java code
       run: |
-        javac AutoTasks/src/Main.java
-        java -cp AutoTasks/src Main
+        javac AutoTasks/src/*.java
+        javac AutoTasks/src/cn/iamdt/functions/*.java
+        javac AutoTasks/src/cn/iamdt/utils/*.java
+    - name: Run Java program
+      run: java -cp AutoTasks/src Main
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'inwinter04'
