@@ -18,11 +18,11 @@ jobs:
         distribution: 'adopt'
     - name: Compile Java code
       run: |
-        javac AutoTasks/src/*.java
+        javac AutoTasks/src/cn/iamdt/*.java
         javac AutoTasks/src/cn/iamdt/functions/*.java
         javac AutoTasks/src/cn/iamdt/utils/*.java
     - name: Run Java program
-      run: java -cp AutoTasks/src Main
+      run: java -cp AutoTasks/src/cn/iamdt/ Main
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'inwinter04'
