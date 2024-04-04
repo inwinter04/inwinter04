@@ -1,3 +1,5 @@
+package cn.iamdt;
+
 import cn.iamdt.functions.EnvironmentVariablesReader;
 import cn.iamdt.functions.PostPublisher;
 import cn.iamdt.functions.SignIn;
