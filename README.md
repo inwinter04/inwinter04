@@ -31,12 +31,7 @@ Here are some ideas to get you started:
 
 ### Recent Blog
 <!-- START_SECTION:blog -->
-* <a href='http://localhost:8080/archives/1711780461050' target='_blank'>[原创微工具]必应每日壁纸下载器</a> - Sat, 30 Mar 2024 07:38:35 GM
-* <a href='http://localhost:8080/archives/1711764808969' target='_blank'>AtlasOS —— 提升电脑性能的利器！</a> - Sat, 30 Mar 2024 02:19:43 GM
-* <a href='http://localhost:8080/archives/1708088304873' target='_blank'>记录安装AtlasOS时的翻车经历</a> - Fri, 16 Feb 2024 13:04:25 GM
-* <a href='http://localhost:8080/archives/1705497367170' target='_blank'>AI社交觉醒？斯坦福小镇实验到底做了什么！</a> - Sun, 21 Jan 2024 06:30:35 GM
-* <a href='http://localhost:8080/archives/1704109185030' target='_blank'>再见2023，你好2024！</a> - Mon, 1 Jan 2024 11:59:31 GM
-* <a href='http://localhost:8080/archives/1703937895591' target='_blank'>非小米电脑使用跨端智联</a> - Sat, 30 Dec 2023 12:35:08 GM
+
 <!-- END_SECTION:blog -->
 
 ### Stats
