@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <a href="https://www.iamdt.cn"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&separator=%3C&lines=console.log(%22Hello+World!%22);%3C%E8%A6%81%E4%BC%98%E7%A7%80%E5%95%8A%EF%BC%8C%E4%B8%8D%E7%84%B6%E6%80%8E%E4%B9%88%E9%81%87%E8%A7%81%E4%BC%98%E7%A7%80%E7%9A%84%E4%BA%BA%EF%BC%81"> </a> </h1>
+<h1 align="center"> <a href="https://www.iamdt.cn"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=500&center=true&width=435&separator=%3C&lines=console.log(%22Hello+World!%22);%3C%E8%A6%81%E4%BC%98%E7%A7%80%E5%95%8A%EF%BC%8C%E4%B8%8D%E7%84%B6%E6%80%8E%E4%B9%88%E9%81%87%E8%A7%81%E4%BC%98%E7%A7%80%E7%9A%84%E4%BA%BA%EF%BC%81"> </a> </h1>
 
 - 🔭 I’m currently working on a University Student
 - 🌱 I’m currently learning JavaEE and Big Data
